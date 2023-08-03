@@ -1,0 +1,6 @@
+n1= int(input("ingrese un numero: "))
+n2= int(input("ingrese un numero: "))
+n3= int(input("ingrese un numero: "))
+n4= int(input("ingrese un numero: "))
+n5= int(input("ingrese un numero: "))
+print(n1+n2+n3+n4+n5)
